@@ -1,0 +1,29 @@
+.a1{
+border-radius: 20px !important;
+
+width: 400px !important;
+height: auto !important;
+
+margin-top: 20px !important;
+box-shadow: 5px 10px 24px #b8b4b4;
+}
+
+input {
+    width: 200px;
+    border:none !important;
+    border-bottom: 1px solid rgb(196, 183, 183) !important;
+}
+
+.a2{
+    width: 1100px !important;
+height: auto !important;
+
+    border-radius: 20px !important;
+    box-shadow: 5px 10px 24px #b8b4b4;
+}
+.a3{
+    width: 300px !important;
+    text-align: center;
+    border-radius: 20px !important;
+    box-shadow: 5px 10px 24px #b8b4b4;  
+}
